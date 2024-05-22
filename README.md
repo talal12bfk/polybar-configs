@@ -7,7 +7,7 @@
 ## Modules:
 it has the following modules enabled and configured
 ```
-modules-right = battery pulseaudio tray
+modules-right = battery pulseaudio tray menu-power
 modules-center = date
 modules-left = i3
 ```
